@@ -1312,11 +1312,11 @@ ham.sendMessage(m.chat, buttonMessage, {quoted:ftex})
 }
 break
 case 'emel': {
-ham.sendMessage(m.chat, { image: { url: `https://i.ibb.co/m86xdkW/gege.png` }, text: `Dipilih-pilih dulu:v`},{quoted:m})
+ham.sendMessage(m.chat, { image: { url: `https://i.ibb.co/m86xdkW/gege.png` }, caption: `Dipilih-pilih dulu:v`},{quoted:m})
 }
 break
 case 'efef': {
-ham.sendMessage(m.chat, { image: { url: `https://i.ibb.co/4VWdKfJ/gege.png` }, text: `Dipilih-pilih dulu:v`},{quoted:m})
+ham.sendMessage(m.chat, { image: { url: `https://i.ibb.co/4VWdKfJ/gege.png` }, caption: `Dipilih-pilih dulu:v`},{quoted:m})
 }
 break
 // akhir fitur anime
